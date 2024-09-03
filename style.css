@@ -25,8 +25,7 @@ body {
 }
 
 #preloader .logo {
-  width: 500px; 
-
+  width: 500px;
 }
 #main {
   display: none;
@@ -100,7 +99,7 @@ body {
   cursor: pointer;
   transition: all 0.3s ease-in;
 }
-.icons a{
+.icons a {
   text-decoration: none;
   color: #fff;
 }
@@ -243,7 +242,7 @@ body {
   width: 40%;
   min-height: 20vh;
   min-height: inherit;
-  background-image: url(images/contact\ \(1\).jpg);
+  background-image: url(images/contact\\(1\).jpg);
   background-size: cover;
   background-position: center;
   border: 1px solid rgba(205, 92, 92, 0.71);
@@ -270,7 +269,7 @@ body {
 }
 .b3 .overlay a:hover {
   cursor: pointer;
-  color:rgba(205, 92, 92, 0.71);
+  color: rgba(205, 92, 92, 0.71);
 }
 
 /* ---------------Media Query----------- */
@@ -282,18 +281,22 @@ body {
     position: absolute;
     margin-left: 35%;
   }
- 
+
   .b3 .overlay {
     width: 100%;
     margin-left: initial;
   }
   .b2 .up h1 {
-    margin-left: 99px; 
+    margin-left: 99px;
   }
-  .b2 .up a{
+  .b2 .up a {
     margin-left: 55%px;
   }
-  
+  .mute-button {
+    position: absolute;
+    top: 350px;
+    right: 10px;
+  }
 }
 
 @media (max-width: 500px) {
