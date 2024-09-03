@@ -9,6 +9,7 @@ html,
 body {
   width: 100%;
   height: 100%;
+  margin: 0;
 }
 /* ----------logo-------- */
 #preloader {
@@ -46,12 +47,13 @@ body {
 
 .top .background-video {
   position: absolute;
-  top: -2.5rem;
+  top: -2.rem;
   left: 0;
   width: 100%;
-  height: 70%;
+  height: 60%;
   object-fit: fill;
   z-index: -1;
+  padding-bottom: 1%;
 }
 .text {
   display: flex;
@@ -126,7 +128,7 @@ body {
   border-top: 1px solid rgba(205, 92, 92, 0.71);
   display: flex;
   width: 100%;
-  min-height: 40vh;
+  min-height: 43.8vh;
 }
 .b1 {
   width: 30%;
@@ -207,7 +209,7 @@ body {
 .b2 .down {
   color: #fff;
   width: 100%;
-  min-height: 20vh;
+  min-height: 23.6vh;
   background-image: url(images/roadster.webp);
   background-size: cover;
   background-position: center;
@@ -242,12 +244,13 @@ body {
   width: 40%;
   min-height: 20vh;
   min-height: inherit;
-  background-image: url(images/contact\\(1\).jpg);
+  background-image: url(images/contact\ \(1\).jpg);
   background-size: cover;
   background-position: center;
-  border: 1px solid rgba(205, 92, 92, 0.71);
+  border-bottom: 2px solid rgba(205, 92, 92, 0.71);
   float: left;
 }
+
 .b3 .overlay {
   color: #fff;
   justify-content: right;
