@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", function () {
       document.getElementById("preloader").style.display = "none";
      
       document.getElementById("main").style.display = "block";
-    }, 1000); 
+    }, 1500); 
   });
  
