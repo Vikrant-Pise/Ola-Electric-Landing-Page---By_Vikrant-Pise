@@ -114,7 +114,7 @@ body {
 .b1 {
   width: 30%;
   min-height: inherit;
-  background-image: url(/images/cruiser.webp);
+  background-image: url(images/cruiser.webp);
   background-size: cover;
   background-position: center;
   border: 2px solid indianred;
@@ -159,7 +159,7 @@ body {
   color: #ffff;
   width: 100%;
   min-height: 20vh;
-  background-image: url(/images/advanture.webp);
+  background-image: url(images/advanture.webp);
   background-size: cover;
   background-position: center;
 
@@ -191,7 +191,7 @@ body {
   color: #fff;
   width: 100%;
   min-height: 20vh;
-  background-image: url(/images/roadster.webp);
+  background-image: url(images/roadster.webp);
   background-size: cover;
   background-position: center;
   border: 1px solid rgba(205, 92, 92, 0.71);
@@ -225,7 +225,7 @@ body {
   width: 40%;
   min-height: 20vh;
   min-height: inherit;
-  background-image: url(/images/contact\ \(1\).jpg);
+  background-image: url(images/contact\ \(1\).jpg);
   background-size: cover;
   background-position: center;
   border: 1px solid rgba(205, 92, 92, 0.71);
