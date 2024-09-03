@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("main").style.display = "block";
   }, 1500);
 
-  // Unmute button
+ 
   const muteButton = document.getElementById("mute-button");
   const video = document.getElementById("background-video");
 

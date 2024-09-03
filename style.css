@@ -329,6 +329,7 @@ body {
   /*--------- bottom--------- */
   .bottom {
     flex-direction: column;
+    
   }
   .b1 {
     width: 100%;
